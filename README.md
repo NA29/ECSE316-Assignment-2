@@ -7,7 +7,7 @@ The program supports image visualization, denoising, compression, and runtime an
 
 ## Included Files
 
-- main.py (all code in one file)
+- fft.py (all code in one file)
 - moonlanding.png (input image)
 - Report.pdf
 - README.md
@@ -21,7 +21,7 @@ The program supports image visualization, denoising, compression, and runtime an
 
 ```
 source venv/bin/activate
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## How to Run
