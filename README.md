@@ -27,7 +27,7 @@ pip3 install -r requirements.txt
 ## How to Run
 
 ```
-python3 main.py -m <mode> -i moonlanding.png
+python3 fft.py -m <mode> -i moonlanding.png
 ```
 
 Modes:
